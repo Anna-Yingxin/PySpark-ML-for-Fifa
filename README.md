@@ -2,6 +2,7 @@
 
 # Problem
 This dataset contains Soccer player statistics for 2015-2022. In this project we firstly perform data engineering on 110 columns. Then, we build machine learning models that predict the overall value for each player based on their skillsets.
+Dataset: https://www.kaggle.com/stefanoleone992/fifa-22-complete-player-dataset/
 
 # Constraints
 <li>unique_id: This column could be used as a primary key if it offers unique values for each record.</li>
